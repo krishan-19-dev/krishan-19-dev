@@ -11,7 +11,6 @@ I'm a passionate developer from Delhi. I enjoy working on mobile applications an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishan-19-dev&color=blue)
 
-[![CI](https://github.com/krishan-19-dev/tunestream/actions/workflows/main.yml/badge.svg)](https://github.com/krishan-19-dev/tunestream/actions/workflows/main.yml)
 
 ## Projects
 
